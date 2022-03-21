@@ -6,7 +6,7 @@
 
 ![matestack logo](./logo.png)
 
-# matestack-ui-core | Component based web UIs in pure Ruby for Rails
+# matestack-ruby-on-rails-project | Component based web UIs in pure Ruby for Rails
 
 Boost your productivity & easily create component based web UIs in pure Ruby.
 
