@@ -4,7 +4,6 @@
 [![Docs](https://img.shields.io/badge/docs-matestack-blue.svg)](https://docs.matestack.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/matestack.svg?style=social)](https://twitter.com/matestack)
 
-![matestack logo](./logo.png)
 
 # matestack-ruby-on-rails-project | Component based web UIs in pure Ruby for Rails
 
